@@ -1,1 +1,1 @@
-# email-marketing-using-blockchain
+# Simple Blockchain
